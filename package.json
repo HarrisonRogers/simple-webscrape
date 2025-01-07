@@ -13,9 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0",
-    "fs-extra": "^11.2.0",
-    "react": "18",
-    "typescript": "^5.7.2"
+    "fs-extra": "^11.2.0"
   },
   "type": "module",
   "devDependencies": {
